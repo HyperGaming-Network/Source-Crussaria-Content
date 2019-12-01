@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+ "$basetexture" "dr/dr_web"
+ "$nocull" 1
+ "$translucent" 1
+ "$surfaceprop" "paper"
+ "%keywords" "ageofchivalry"
+}

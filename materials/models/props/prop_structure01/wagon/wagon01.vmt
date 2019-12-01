@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models\props\prop_structure01\wagon\wagon01"
+	//"$bumpmap" "models\props\prop_structure01\wagon\wagon01_n"       
+	"$surfaceprop" "wood"
+	"$model" 1
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\human_ranger/slow_skirt"
+	"$bumpmap" "models\hgn\crussaria\player\human_ranger/slow_skirt_bump" 
+
+	"$nocull" 1
+
+}

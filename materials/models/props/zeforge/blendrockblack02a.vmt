@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+
+	"<dx90"
+	{
+		"$fallbackmaterial" "nature/blendrockblack02a_dx8"
+	}
+
+	"$basetexture" "nature/rockwall_cave02a"
+	"$bumpmap" "nature/rockwall_cave_02a_height-ssbump"
+	"$bumpmap2" "nature/rockwall_cave_02a_height-ssbump"
+	"%keywords" "ep2"
+	"$surfaceprop" "antlionsand"
+	"$normalmapalphaenvmapmask" 1
+//	"$envmaptint" "[ .09 .09 .09 ]"
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmap" "cubemaps/cubemap_cave01"
+}
+

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/Flour_BAg/Flour_Bag"
+	"$surfaceprop" "wood"
+
+	"$translucent" 1
+
+}

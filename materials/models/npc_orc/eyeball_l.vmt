@@ -1,0 +1,7 @@
+"Eyes"
+{
+	"$basetexture" "models/Npc_Orc/eyeball_l"
+	"$iris" "models/Npc_Orc/pupil_l"
+	"$nolight" 1
+	"$glint" "models/Npc_Orc/glint"
+}

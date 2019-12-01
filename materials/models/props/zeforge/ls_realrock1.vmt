@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+ "$basetexture" "ls/ls_realrock1"
+ "$surfaceprop" "brick"
+ "$bumpmap" "ls/ls_realrock1_normal"
+ "%keywords" "taoc"
+}

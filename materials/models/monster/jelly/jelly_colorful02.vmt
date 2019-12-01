@@ -1,0 +1,52 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\jelly\jelly_colorful02"
+	"$bumpmap"	"models\monster\jelly\jelly_normal"
+
+	"$nocull"		0
+	"$nodecal" 		1
+	"$alphatest" 		0
+	"$translucent" 		0
+	"$halflambert"	0
+
+	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	15
+	"$phongboost" 		5
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"	5
+	"$rimlight_boost"	15
+
+	// "$sss_enable"		1
+	// "$sss_mask"		0
+	// "$sss_color"		"[1.8 0 0 0]"
+	
+	"$selfillum"        1
+	"$selfillumtint" "[0 0 0]"
+	"$additive"     1
+	
+	"Proxies"
+	{
+	// This is a sine proxy
+	"Sine"
+		{
+	// This is the data for the sine proxy
+	// Notice there is no '$' on the proxy variables
+		"resultVar" "$alpha"
+		"sineperiod" 2
+		"sinemin" 0.6
+		"sinemax" 0.8
+		}
+	"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.2
+			"texturescrollangle" 270
+		}
+	
+	}
+
+}

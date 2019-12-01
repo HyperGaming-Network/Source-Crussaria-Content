@@ -1,0 +1,41 @@
+
+//"predator"
+//{
+//	"$model" 1
+//	"$refractionAmount" "[.02 .02]"
+//	"$envmap" "env_cubemap"
+//}
+
+
+
+//"Refract"
+//{
+//	"$model" 1
+//	"$nodecal" 1
+//	"$bluramount" 1
+//	"$refractamount" ".06"
+//	"$REFRACTTINT" "{150 150 150}"
+//	"$scale" "[0.5 0.5]"
+//	"$baseTexture"	"models/SpiderEggs/SpiderEggsnoise"
+////	"$dudvmap" "models/SpiderEggs/SpiderEggs_dudv"
+//	"$normalmap" "models/SpiderEggs/SpiderEggs_normal"
+////	"$surfaceprop" "flesh"
+//	"$translucent" 1
+//}
+
+
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/SpiderEggs/SpiderEggs"
+	"$bumpmap" "models/SpiderEggs/SpiderEggs_normal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "flesh"
+//	"$normalmapalphaenvmapmask" 1
+//	"$basealphaenvmapmask" "models/SpiderEggs/SpiderEggs_normal"
+//	"$selfillum" 1
+	"$translucent" 1
+	"$additive" 1  //a tester
+//	"$nocull" 1
+//	"$alphatest" 1
+}

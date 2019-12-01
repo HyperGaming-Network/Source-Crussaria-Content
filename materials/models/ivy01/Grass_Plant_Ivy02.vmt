@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/ivy01/Grass_Plant_Ivy02"
+	"$surfaceprop" "Grass"
+	"$translucent" 1
+	"$bumpmap" "models/ivy01/Grass_Plant_Ivy02_normal"
+}

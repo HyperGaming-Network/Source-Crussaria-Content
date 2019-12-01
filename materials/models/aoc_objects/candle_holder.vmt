@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_Objects/candle_holder"
+	//"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"%keywords" "AoC"
+}

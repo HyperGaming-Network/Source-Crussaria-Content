@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_Outdoor/foliage"
+	"$bumpmap""models\AoC_Outdoor/foliage_nm"
+	"$surfaceprop" "dirt"
+	"$translucent" 1 
+	"$alpha" 1
+	"%keywords" "AoC"
+}

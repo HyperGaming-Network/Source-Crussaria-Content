@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+
+{	
+	"$baseTexture" "Models/L05_Stone_Blocs/L05_Stone_Blocs_01"
+	"$bumpmap" "Models/L05_Stone_Blocs/L05_Stone_Blocs_01_normal"
+
+	"$surfaceprop" "concrete"
+
+      "$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+      "$envmaptint" "[.3 .3 .3]"
+}

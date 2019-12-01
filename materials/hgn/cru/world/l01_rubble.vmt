@@ -1,0 +1,7 @@
+"Lightmappedgeneric"
+{
+	"$baseTexture"	"hgn/cru/world/l01_rubble"
+	"$surfaceprop" "dirt"
+	"$bumpmap" "hgn/cru/world/l01_rubble_normal"
+	"%keywords" "L01"
+}

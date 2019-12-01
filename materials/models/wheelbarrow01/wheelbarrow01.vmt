@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+
+{	
+	"$baseTexture"	"models/wheelbarrow01/wheelbarrow01"
+	"$bumpmap" "models/wheelbarrow01/wheelbarrow01_normal"
+	"$surfaceprop" "Wood"
+}

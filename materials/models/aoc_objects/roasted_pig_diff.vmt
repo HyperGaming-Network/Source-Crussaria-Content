@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_objects/roasted_pig_diff"
+	"$bumpmap" "models/aoc_objects/roasted_pig_nm"
+	"$surfaceprop" "Flesh"
+}

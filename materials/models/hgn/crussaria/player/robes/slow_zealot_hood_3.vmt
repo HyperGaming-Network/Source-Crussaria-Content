@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\robes\slow_zealot_hood_3"
+	"$bumpmap"	"models\hgn\crussaria\player\robes\slow_zealot_hood_3_bump"		
+
+	"$nocull" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges"	"[1 1 1]"
+}

@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+"$basetexture""hgn/cru/hud/cru_menu2_bar"
+"$vertexcolor" 1
+"$vertexalpha" 1
+"$nolod" 1
+"$nocull"1
+}

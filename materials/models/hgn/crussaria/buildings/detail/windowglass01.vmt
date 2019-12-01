@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "mq_pub/windowglass01"
+	 "$surfaceprop" "glass"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "mq_pub/windowglass01_mask"
+	"$envmaptint" "[1 1 1]"
+}

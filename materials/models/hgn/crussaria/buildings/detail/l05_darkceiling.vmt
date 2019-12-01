@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l05_darkceiling"
+	"$surfaceprop" "stone"
+	"$bumpmap" "hgn/cru/world/l05_templeceiling_n"
+	"%keywords" "l05"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_wood_02"
+	"$surfaceprop" "wood"
+	"$bumpmap" "hgn/cru/world/L01_wood_02_n"
+	"%keywords" "castle, wood, crussaria"
+}

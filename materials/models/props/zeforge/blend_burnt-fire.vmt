@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "ls_firecrag/burnt_earth_fire"
+	"%tooltexture" "ls_firecrag/burnt_earth"
+	"$selfillum1" 1
+	"$surfaceprop" "sand"
+	"%keywords" "aoc"
+}

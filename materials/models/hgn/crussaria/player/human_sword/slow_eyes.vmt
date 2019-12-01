@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\human_sword/slow_face"
+	"$bumpmap" "models\hgn\crussaria\player\human_sword/slow_face_bump"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" .15
+	"$envmapsaturation" 0.75
+}

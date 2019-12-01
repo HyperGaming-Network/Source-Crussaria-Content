@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapon\_monster\ice_cragdigger_qyrmigal"
+              "$bumpmap" "models\weapon\_monster\ice_cragdigger_qyrmigal_normal"
+
+
+            "$normalmapalphaenvmapmask" 1
+	"$envmap" "world/misc/envmap_stage02"
+            "$surfaceprop" "ice_rough"
+           "$envmapcontrast" 1
+          //   "$selfillumtint" "[1 1 1]"
+           "$selfillum_envmapmask_alpha" 1 
+
+}

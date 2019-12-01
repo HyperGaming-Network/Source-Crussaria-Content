@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "skyrim/wuuthrad/axe/wuuthrad"
+	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$bumpmap"	"skyrim/wuuthrad/axe/wuuthrad_n"
+	"$phongexponenttexture"	"skyrim/wuuthrad/axe/wuuthrad_n"
+	"$phongboost"				"5.0"
+	"$phongfresnelranges"		"[0 0.5 1]"
+}

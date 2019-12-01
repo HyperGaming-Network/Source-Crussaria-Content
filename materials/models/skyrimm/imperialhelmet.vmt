@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/imperialhelmet"
+	"$bumpmap" "models/skyrimm/imperialhelmet_n"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "16"
+	"$phongboost" "0.4"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 4 10]"
+	"$ambientocclusion" "1"
+}

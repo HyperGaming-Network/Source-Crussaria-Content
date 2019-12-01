@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_outdoor/perch"
+	"$surfaceprop" "Slime"
+	"$alphatest" 1
+	"$nocull" 1
+}

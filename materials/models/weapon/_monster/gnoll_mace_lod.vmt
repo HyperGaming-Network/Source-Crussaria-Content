@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapon/_monster/gnoll_mace"
+
+	"$halflambert" 1
+	"$nocull" 0
+	"$nodecal" 0
+	"$alphatest" 0
+	"$translucent" 0
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\potions\poison
+	$bumpmap models\props_tes\potions\normal
+	$surfaceprop glass
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\t01_magic\t01_magic_feather01"
+          //  "$bumpmap" "models\prop\t01_magic\t01_magic_feather01_n"
+	//"$envmap" "env_cubemap"
+         //   "$normalmapalphaenvmapmask" 1
+        "$alphatest" "1"
+        "$surfaceprop" "paper"
+        "$model" 1
+        "$nocull" 1
+}

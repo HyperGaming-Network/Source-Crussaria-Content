@@ -1,0 +1,15 @@
+"vertexlitGeneric"
+{
+	
+"$basetexture" "models\props\prop_structure01\flag\flag_worn02"
+
+//"$bumpmap" "models\props\prop_structure01\flag\flag_worn02_n"	
+
+"$sufaceprop" "wood"
+	
+"$alphatest" "1"
+
+"$model" 1
+
+"$nocull" 1
+}

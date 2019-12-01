@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\\aoc_player\peasant/peasant_head_dead1"
+	"$bumpmap"   "models\aoc_player\peasant/peasant_head_nm"
+	"$model" 1
+	"$surfaceprop" "flesh"
+	"$phong" 1
+	"$phongboost" "5"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .5 1.0]"
+}

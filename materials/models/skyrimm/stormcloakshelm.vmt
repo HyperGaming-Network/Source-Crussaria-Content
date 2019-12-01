@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/stormcloakshelm"
+	"$bumpmap" "models/skyrimm/stormcloakshelm_n"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.2"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 3 10]"
+	"$ambientocclusion" "1"
+}

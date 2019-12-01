@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_Player\gfootman/good_footman_Face2"
+	"$bumpmap"   "models\AoC_Player\gfootman/good_footman_Face_nm"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$phong" 1
+	"$phongboost" "5"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .5 1.0]"
+}
+

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\hgn\crussaria\player\armour\imperial\ted_facemap"
+	"$halflambert" 1
+}

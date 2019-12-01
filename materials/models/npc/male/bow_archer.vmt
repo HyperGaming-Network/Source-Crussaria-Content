@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\npc\male\bow_archer"
+	"$bumpmap" "models\npc\male\bow_archer_normal"
+
+    "$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[1 1 1]" 
+
+	"$halflambert" 0
+	"$nocull" 0
+	"$nodecal" 1
+	"$alphatest" 0
+	"$translucent" 0
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		8
+	"$rimlight_boost"	8
+	
+}

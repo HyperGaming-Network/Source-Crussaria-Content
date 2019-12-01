@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+
+{	
+	"$baseTexture" "Models/Chest_Cloth/chest_cloth_dirty"
+	"$bumpmap" "Models/Chest_Cloth/chest_cloth_dirty_normal"
+	"$surfaceprop" "fabric"
+}

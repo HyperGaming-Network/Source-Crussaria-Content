@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/trestles/trestles"
+	"$surfaceprop" "wood"
+	"$bumpmap" "models/trestles/trestles_normal"
+
+}

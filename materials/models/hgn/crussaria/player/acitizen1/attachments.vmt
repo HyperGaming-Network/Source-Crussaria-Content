@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\acitizen1\attachments"
+	"$bumpmap" "models\hgn\crussaria\player\acitizen1\attachments_n"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "0.3"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 6 15]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.2"
+
+	"$ambientocclusion" "1"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\books\Log01
+	$bumpmap models\props_tes\books\Log01_n
+	$surfaceprop paper
+}

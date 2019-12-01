@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" "models\aoc_trees/aoc_pine_foliage_snowy"
+	 $alphatest 1
+ 	"$nocull" 1
+}

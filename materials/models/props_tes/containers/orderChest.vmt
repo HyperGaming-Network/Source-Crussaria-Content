@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\containers\orderChest
+	$bumpmap models\props_tes\containers\orderChest_n
+	$surfaceprop wood
+}

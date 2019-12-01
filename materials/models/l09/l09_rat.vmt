@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models\L09\L09_Rat"
+	//"$bumpmap" "Models\L09\L09_Rat_normal"
+	"$surfaceprop" "flesh"
+}
+

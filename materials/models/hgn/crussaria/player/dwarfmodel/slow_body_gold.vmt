@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\dwarfmodel\slow_armor"
+	"$bumpmap"  "models\hgn\crussaria\player\dwarfmodel\slow_armor_bump"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "{255 215 0}" 
+	"$envmapcontrast" .35
+	"$envmapsaturation" 1
+}

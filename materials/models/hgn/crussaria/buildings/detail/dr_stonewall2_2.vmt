@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+ "$basetexture" "dr/dr_stonewall2_2"
+ "$surfaceprop" "brick"
+ "%keywords" "ageofchivalry"
+ "$bumpmap" "dr/dr_stonewall2_2_normal"
+}

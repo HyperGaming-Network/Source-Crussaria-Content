@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\containers\rope
+	$bumpmap models\props_tes\containers\rope_n
+	$surfaceprop wood
+}

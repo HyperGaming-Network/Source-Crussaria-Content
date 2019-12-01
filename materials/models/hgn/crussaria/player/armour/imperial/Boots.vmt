@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\armour\imperial\Boots"
+	"$bumpmap" "models\hgn\crussaria\player\armour\imperial\Boots_n"
+
+       //Phong parameters
+       "$phong" "1"
+       "$phongexponent" "10"
+       "$phongboost" "1"
+       "$phongfresnelranges"  "[3 5 8]"
+       "$phongalbedotint" "1"
+
+       // Rim lighting parameters
+       "$rimlight" "1"
+       "$rimlightexponent" "50"
+       "$rimlightboost" "0.1"
+}

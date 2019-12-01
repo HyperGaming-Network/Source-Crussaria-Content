@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\ship\ship01"
+         // "$bumpmap" "prop\ship\ship01_normal"
+	//"$envmap" "env_cubemap"
+	//"$basealphaenvmapmask" 1
+	"$surfaceprop" "wood"
+        "$model" 1
+}

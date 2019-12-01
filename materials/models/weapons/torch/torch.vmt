@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons/torch/torch"
+	"$selfillum" 1
+	"$bumpmap" "models\weapons/torch/torch_n"
+$phong 1
+$phongboost 3
+$phongexponent 4
+$phongtint "[1.5 1 1]"
+$halflambert 0
+$phongfresnelranges "[1 5 10]"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\prop\junk\brazier_01"
+	"$surfaceprop" "metal"
+               "$selfillum" "1" 
+        "$model" 1
+}

@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\mankind\mankind_soldier"
+	"$bumpmap" "models\monster\mankind\mankind_soldier_normal"
+
+    "$envmap" "env_cubemap"
+	"$envmapcontrast" 0.5
+	"$envmaptint" "[1 1 1]" 
+
+	"$halflambert" 0
+	"$nocull" 0
+	"$nodecal" 0
+	"$alphatest" 0
+	"$translucent" 0
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		7
+	"$rimlight_boost"	8
+	
+}

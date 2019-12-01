@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+ "$basetexture" "midle_ages/dr_window_decal"
+ "$translucent" 1
+ "$decal" 1
+ "$decalscale" 0.25
+ "$surfaceprop" "wood"
+ "%keywords" "ageofchivalry"
+}

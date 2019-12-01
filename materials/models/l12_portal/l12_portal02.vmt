@@ -1,0 +1,50 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/L12_portal/l12_portal02"
+	"$bumpmap" "models/L12_portal/l12_portal02_normal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" 1
+	
+	"$envmaptint" "{150 150 140}"
+
+	"$selfillum" 1
+
+ "Proxies"   
+     {   
+ 
+		"Sine"
+		{
+			"resultVar" "$selfillumtint"
+			"sineperiod" 1.5
+			"sinemin" 0.5
+			"sinemax" 1.6
+		}
+		
+		"Sine"
+		{
+			"resultVar" "$color[0]"
+			"sineperiod" 10
+			"sinemin" 1
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[1]"
+			"sineperiod" 2.3
+			"sinemin" 1
+
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[2]"
+			"sineperiod" 2.3
+			"sinemin" 1
+
+			"sinemax" 1 
+            }   
+     } 
+
+}

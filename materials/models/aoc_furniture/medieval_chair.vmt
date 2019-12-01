@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_furniture/medieval_chair"
+	"$bumpmap" "models\aoc_furniture/medieval_chair_nm"
+}

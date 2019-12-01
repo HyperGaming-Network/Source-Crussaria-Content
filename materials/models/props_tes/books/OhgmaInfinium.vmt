@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\books\ohgmainfinium
+	$bumpmap models\props_tes\books\ohgmainfinium_n
+	$surfaceprop paper
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_objects/grey_wood"
+	"$bumpmap" "models\AoC_objects/grey_wood_normal"
+}

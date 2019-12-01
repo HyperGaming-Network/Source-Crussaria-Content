@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\items\silvernugget
+	$bumpmap models\props_tes\items\silvernugget_n
+	$surfaceprop metal
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/l01_rope"
+	"$surfaceprop" "clothes"
+	"$bumpmap" "hgn/cru/world/l01_rope_normal"
+	"%keywords" "L01, rope"
+}

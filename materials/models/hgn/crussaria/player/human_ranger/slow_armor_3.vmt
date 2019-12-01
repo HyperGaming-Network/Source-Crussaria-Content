@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\human_ranger/slow_armor_3"
+	"$bumpmap" "models\hgn\crussaria\player\human_ranger/slow_armor_3_bump" 
+
+	"$nocull" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"11"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+	"$basetexture" "models\objects\common\various03"
+	// "$bumpmap" "models\objects\common\football01_n"	
+	// "$halflambert"		1
+	"$nocull" 1
+	"$surfaceprop" "wood"
+}

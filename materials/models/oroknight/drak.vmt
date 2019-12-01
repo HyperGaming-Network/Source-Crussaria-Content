@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Models/oroknight/drak"
+	"$halflambert" 1
+	"$nocull" "1"
+
+}

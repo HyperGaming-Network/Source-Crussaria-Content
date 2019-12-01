@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_Player\gknight/head2"
+	"$surfaceprop" "flesh"
+	"$bumpMap" "models\AoC_Player\gknight/head_nm"
+	"$model" 1
+	"$phong" 1
+	"$phongboost" "5"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .5 1.0]"
+}

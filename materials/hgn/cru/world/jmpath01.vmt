@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/jmpath01"
+	"$surfaceprop" "dirt"
+	"$bumpmap" "hgn/cru/world/jmpath01_n"
+	"%keywords" "castle, wood, crussaria"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1	
+
+	//"$envmapsaturation" .75
+	//"$envmapcontrast" .5
+	

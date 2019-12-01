@@ -1,0 +1,47 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\meta/forma_colormaps2"
+	"$bumpmap" "models\meta\forma_normals"
+
+	"$alpha" 1
+
+	//phong parameters
+
+	"$phong" "1"
+	"$phongboost" "8"
+	"$phongexponent" "35"
+	"$phongfresnelranges" "[.1 .4 1]"
+	"$phongtint" "[ 0.4 0.6 0.8 ]"
+
+	//rimlight parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "1"	
+
+	// Environment map
+	"$normalmapalphaenvmapmask" "1" // Not supported when self illum fresnel is enabled!
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.12 0.12 0.12]"
+
+	//"$lightwarptexture" "gradient/gradient_forma"
+
+	//EYE VISION
+	"$sensitivewPassEnabled" "1"//Enable sensitive wave for this npc
+    "$eyevisionBlendEnabled"      "1" // Enables eyevision for this npc
+
+    "$eyevisionbrightnesslevel"  "0.5" //scale brightness during eyevision
+    "$disallowevchanges"        "1" //should be use for all npcs
+	
+	"$eyevisiononlysoundt"      "1" //Do not use eyevision really, only soundt
+ 
+	"Proxies"
+        {
+            "vs_eyevision"
+				{
+                }
+            "vs_sensitivewave"
+                {
+                }
+        }
+
+}

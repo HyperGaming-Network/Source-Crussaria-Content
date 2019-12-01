@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\books\octavo04
+	$bumpmap models\props_tes\books\octavo04_n
+	$surfaceprop paper
+}

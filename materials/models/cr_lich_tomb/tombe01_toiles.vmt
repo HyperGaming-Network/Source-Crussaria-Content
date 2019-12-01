@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/tomb01/tombe01_toiles"
+	"$surfaceprop" "concrete"
+	//"$alphatest" 1
+	"$nocull" 1
+	"$translucent" 1
+	//"$additive" 1  //a tester
+}

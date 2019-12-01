@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\lorda/slow_clothes"
+	"$bumpmap"	"models\hgn\crussaria\player\lorda/slow_clothes_bump"
+
+	"$nocull" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

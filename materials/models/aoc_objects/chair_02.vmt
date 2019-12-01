@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_Objects/chair_02"
+	"$surfaceprop" "wood"
+	"%keywords" "AoC"
+}

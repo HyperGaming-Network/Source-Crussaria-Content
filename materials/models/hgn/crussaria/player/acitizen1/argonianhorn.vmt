@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/argonianc2marines/shared/argonianhorn"
+	"$bumpmap" "models/argonianc2marines/shared/argonianhorn_n"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1.3"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 6 15]"
+
+	"$ambientocclusion" "1"
+}

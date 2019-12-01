@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/abreuvoirs/abreuv01"
+	"$surfaceprop" "wood"
+	"$bumpmap" "models/abreuvoirs/abreuv01_normal"
+}

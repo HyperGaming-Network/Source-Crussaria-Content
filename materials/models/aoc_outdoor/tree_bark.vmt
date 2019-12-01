@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_outdoor/tree_bark"
+	"$bumpmap" "models\AoC_outdoor/tree_bark_nm"
+	"$surfaceprop" "wood"
+	"%keywords" "AoC"
+}

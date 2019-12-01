@@ -1,0 +1,68 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" "models\meta/shiva_colormap2"
+	"$bumpmap" "models\meta/shiva_normals"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ 0.05 0.05 0.05 ]"
+	"$halflambert" 1
+	"$model" 1
+	"$alpha" 1
+//	"$selfillumtexture" "models\meta/shiva_glow"
+	"$selfillum" 1
+	"$selfillumtint" "[ 12 5 2 ]"
+	"$SELFILLUMMASK" "models\meta\shiva_si"
+
+	"$phongalbedotint" "1"
+
+	//"$lightwarptexture"	"models\meta/shiva_lightwarp"
+	//"$phongwarptexture" "models\meta/shiva_green_phongwarp"
+//	"$rimlightwarptexture" "models\meta/shiva_lightwarp"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+//	"$phongboost"	"1.2"
+	"$phongboost"	"0.6"
+//	"$phongalbedotint" "1"
+//	"$phongtint"  "[ 1.6 0.3 0.3 ]"
+	"$phongtint"  "[ 1.2 0.6 0.6 ]"
+
+//	"$basemapalphaphongmask" "1"
+
+//	"$phongfresnelranges"	"[0.15 0.5 1]"
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "50"
+	"$rimlightboost" "0.1"
+	
+	//EYE VISION
+	"$sensitivewPassEnabled" "1"//Enable sensitive wave for this npc
+    "$eyevisionBlendEnabled"      "1" // Enables eyevision for this npc
+
+    "$eyevisionbrightnesslevel"  "0.5" //scale brightness during eyevision
+    "$disallowevchanges"        "1" //should be use for all npcs
+	
+	"$eyevisiononlysoundt"      "1" //Do not use eyevision really, only soundt
+
+	"Proxies"
+	{
+		// This is a sine proxy
+		// "Sine"
+		// {
+			// This is the data for the sine proxy
+			// Notice there is no '$' on the proxy variables
+			// "resultVar"	"$selfillum"
+			// "sineperiod"	1
+			// "sinemin"	.8
+			// "sinemax"	1
+		// }
+		"vs_eyevision"
+		{
+        }
+        "vs_sensitivewave"
+        {
+        }
+	}
+}

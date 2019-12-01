@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/Torch_gob/Fabric_Torch02"
+	
+	"$surfaceprop" "Fabric"
+	 "$selfillum" 1
+	
+//	"$translucent" 1
+}

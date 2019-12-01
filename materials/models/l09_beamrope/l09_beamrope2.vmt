@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"Models\L09_beamrope\L09_beamrope"
+	"$surfaceprop" "rope"
+	//"$bumpmap" "Models/L09_beamrope_normal"
+}

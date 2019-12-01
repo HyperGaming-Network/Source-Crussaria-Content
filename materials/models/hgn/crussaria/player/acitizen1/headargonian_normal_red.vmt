@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\acitizen1\headargonian_normal_red"
+	"$bumpmap" "models\hgn\crussaria\player\acitizen1\headargonian_n"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1.3"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 6 15]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "1"
+
+	"$ambientocclusion" "1"
+}

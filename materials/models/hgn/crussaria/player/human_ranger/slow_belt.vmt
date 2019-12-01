@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\human_ranger/slow_belt"
+	"$bumpmap" "models\hgn\crussaria\player\human_ranger/slow_belt_bump" 
+	$no_draw 1
+	"$nocull" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"15"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

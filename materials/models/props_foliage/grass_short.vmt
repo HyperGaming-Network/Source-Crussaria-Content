@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+        "$baseTexture" "models/props_foliage/grass_short"
+	"$alphatest" 1
+        "$surfaceprop" "grass"
+        "$nocull" 1
+	"$selfIllum" 0
+	"$model" 1
+}

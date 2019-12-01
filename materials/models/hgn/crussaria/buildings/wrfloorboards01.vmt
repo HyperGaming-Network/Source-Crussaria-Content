@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/wrfloorboards01"
+	"$surfaceprop" "wood"
+	"$bumpmap" "hgn/cru/world/wrfloorboards01_n"
+	"%keywords" "castle,wood,wall,crussaria"
+}

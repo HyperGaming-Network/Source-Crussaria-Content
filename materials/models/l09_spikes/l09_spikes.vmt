@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models\l09_spikes\l09_spikes"
+	"$surfaceprop" "stone"
+	"$bumpmap" "models\l09_spikes\l09_spikes_normal"
+
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" 1
+//	"$envmaptint" "[1 1 1]"
+
+//	"$envmap" "env_cubemap"
+	
+	
+}

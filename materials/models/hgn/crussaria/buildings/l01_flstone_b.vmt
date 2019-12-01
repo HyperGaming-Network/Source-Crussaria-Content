@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l01_flstone_b"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/l01_flstone_b_n"
+	"%keywords" "l01"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+	"vertexlitgeneric_hdr_dx9"
+		{
+       		"$envmaptint" "[.4 .4 .4]"
+		}
+}

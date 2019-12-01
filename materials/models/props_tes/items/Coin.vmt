@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\items\coin
+	$bumpmap models\props_tes\items\coin_n
+	$surfaceprop metal
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture" "models\aoc_sorrow\rock1"
+	"$bumpmap" "models\aoc_sorrow\rock1_normal"
+	"$surfaceprop" "stone"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.5
+	"$envmap" "env_cubemap"
+       	 "$envmaptint" "[.2 .2 .3]"
+
+
+}

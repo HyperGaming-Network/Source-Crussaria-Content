@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 	"hgn/cru/world/terrainhdgrass01su"
+	"$basetexture2" "hgn/cru/world/sgrass01"
+	"$surfaceprop" 		"grass"
+	"$surfaceprop2" 	"grass"
+	"$bumpmap"		    "hgn/cru/world/terraingcgrassdirt01_n"
+	"$bumpmap2"		    "hgn/cru/world/sgrass01_n"
+	"%detailtype"		"default_grass"
+	//"$blendmodulatetexture"         "hgn/srp/nature/modulate01"
+	"%keywords" "grass,crussaria,terrain"
+}

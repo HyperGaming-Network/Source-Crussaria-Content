@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	
+"$baseTexture" "models\stumps\stumps_v"
+"$surfaceprop" "Wood"
+"$bumpmap" "models\stumps\stumps_v_normal"
+"$alphatest" "1"
+}

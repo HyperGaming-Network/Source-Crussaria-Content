@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+ "$basetexture" "dr/dr_wood_shingles2"
+ "$surfaceprop" "wood"
+ "%keywords" "ageofchivalry"
+ "$bumpmap" "dr/dr_wood_shingles2_normal"
+}

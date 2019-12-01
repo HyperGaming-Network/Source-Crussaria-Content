@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/studdedarmor_male_helmet_d"
+	"$bumpmap" "models/skyrimm/studdedarmor_male_helmet_n"
+	"$alphatest" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "0.3"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 3 10]"
+	"$ambientocclusion" "1"
+}

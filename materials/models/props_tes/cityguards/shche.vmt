@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\cityguards\shche
+	$bumpmap models\props_tes\cityguards\shche_n
+	$surfaceprop metal
+}

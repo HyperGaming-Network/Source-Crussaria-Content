@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+
+{	
+	"$baseTexture"	"models/Rich_chest01/Rich_chest_01_v_dirty"
+	"$bumpmap" "models/Rich_chest01/Rich_chest_01_v_normal"
+
+	"$surfaceprop" "wood_furniture"
+
+      "$envmap" "env_cubemap"
+      "$normalmapalphaenvmapmask" 1
+      "$envmapcontrast" 0.75
+      "$envmapsaturation" 0.2
+}

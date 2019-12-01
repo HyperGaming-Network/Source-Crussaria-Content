@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\npc\Rochest\kids\npc_kid_boy02"
+	"$bumpmap"     "models\npc\Rochest\kids\npc_kid_boy01_normal" 
+
+	"$nocull"		1
+	"$nodecal" 		1
+	"$alphatest" 		0
+	"$translucent" 		0
+	"$halflambert"		1
+
+//	"$envmapmask"		""
+
+	"$phong_enable"		0
+	"$phongexponentmap"	""
+	"$phongexponent" 	9
+	"$phongboost" 		0.001
+
+	
+	"$rimlight_enable"	1
+	"$rimlight_exp"		3
+	"$rimlight_boost"	1.5
+
+	"$sss_enable"		1
+		"$sss_mask"			1
+	"$sss_color"		"[1 0 0 0.8]"
+	
+	"$surface" "cloth"
+}

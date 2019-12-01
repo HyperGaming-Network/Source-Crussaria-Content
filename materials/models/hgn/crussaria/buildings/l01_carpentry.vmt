@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l01_carpentry"
+	"$surfaceprop" "wood"
+	"$bumpmap" "hgn/cru/world/l01_carpentry_n"
+	"%keywords" "l01"
+}

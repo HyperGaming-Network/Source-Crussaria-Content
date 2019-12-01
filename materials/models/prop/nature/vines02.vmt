@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/prop/nature/vines01"
+	"$nocull" 1
+	"$alphatest" 1
+	"$no_draw" "1"
+}

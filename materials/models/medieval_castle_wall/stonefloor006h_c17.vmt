@@ -1,0 +1,19 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "stone/stonefloor006h"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown,wasteland"
+	"$envmaptint" "[ .5 .5 .5 ]"
+
+
+	"vertexlitgeneric_dx9"
+ 	{
+		"$bumpmap" "stone/stonefloor006h_normal"
+		"$envmap" "env_cubemap"
+		"$envmapsaturation" 1
+		"$envmapcontrast" 1
+		"$envmaptint" "[ .6 .6 .6 ]"
+		"$normalmapalphaenvmapmask" 1
+	}
+}

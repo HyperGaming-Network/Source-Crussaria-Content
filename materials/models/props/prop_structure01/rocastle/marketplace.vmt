@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	
+"$basetexture" "models\props\prop_structure01\rocastle\marketplace"
+
+//"$bumpmap" "models\props\prop_structure01\rocastle\marketplace_n"
+
+"$sufaceprop" "wood"
+	
+"$model" 1
+
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_oldarch_front"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/L01_oldarch_front_n"
+}

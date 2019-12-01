@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\Humans\Male\Groupm7\apocal2_sheet"
+	"$bumpmap" "models\Humans\Male\Groupm7\apocal2_sheet_n"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"
+	"$ambientocclusion" "1"
+}

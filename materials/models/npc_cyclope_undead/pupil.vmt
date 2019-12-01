@@ -1,0 +1,6 @@
+"Eyeball"
+{
+	"$basetexture" "models/Npc_cyclope_undead/pupil"
+	"$nolight" 0
+	"$alphatest" "1"
+}

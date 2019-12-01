@@ -1,0 +1,38 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\jelly\jelly_ice"
+	"$bumpmap"	"models\monster\jelly\jelly_ice_normal"
+	"$envmap"		"env_cubemap"
+	"$envmapcontrast"	0.6
+	"$envmaptint"		"[0.8 0.9 1]" 
+
+	"$alphatest" 0
+	"$translucent" 1
+	"$selfillum" 1
+	"$halflambert" 0
+	"$nodecal" 1
+//	"$zwriteenable" 1
+	"$additive" 0
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	10
+	"$phongboost" 		80
+
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		4
+	"$rimlight_boost"	4
+
+	// "Proxies"
+	// {
+		// "TextureScroll"
+		// {
+			// "texturescrollvar" "$baseTextureTransform"
+			// "texturescrollrate" 0.35
+			// "texturescrollangle" 270
+		// }
+
+	// }
+
+}

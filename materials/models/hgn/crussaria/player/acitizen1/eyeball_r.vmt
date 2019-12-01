@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\acitizen1\eyeball_r"
+	"$iris" "models\hgn\crussaria\player\acitizen1\pupil_r"
+	"$halflambert" "1"
+
+}

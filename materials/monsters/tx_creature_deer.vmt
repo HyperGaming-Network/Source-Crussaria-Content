@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "monsters/tx_creature_deer"
+	"$bumpmap" "monsters/tx_creature_deer_normal"
+	"$vertexcolour" 1
+}

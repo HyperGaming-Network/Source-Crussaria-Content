@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\building_S\stone_prop01"
+             "$bumpmap" "models\prop\building_S\stone_prop01_N"
+	"$surfaceprop" "rock"
+        "$model" 1
+}

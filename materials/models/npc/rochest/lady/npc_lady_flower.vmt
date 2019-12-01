@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\npc\Rochest\lady\npc_lady_flower"
+	"$bumpmap"     "models\npc\Rochest\lady\npc_lady_flower_normal" 
+
+	"$nocull"		1
+	"$nodecal" 		1
+	"$alphatest" 		1
+	"$translucent" 		1
+	"$halflambert"		1
+
+//	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	6
+	"$phongboost" 		0.1
+
+	
+	"$rimlight_enable"	1
+	"$rimlight_exp"		3
+	"$rimlight_boost"	1.5
+
+	"$sss_enable"		0
+	"$sss_mask"			0
+	"$sss_color"		"[1 0 0 0.8]"
+}

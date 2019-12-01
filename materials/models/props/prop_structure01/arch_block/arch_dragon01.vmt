@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\props\prop_structure01\arch_block\arch_dragon01"
+    "$bumpmap" "models\props\prop_structure01\arch_block\arch_dragon01_n"
+	// "$envmap" "env_cubemap"
+    // "$normalmapalphaenvmapmask" 1
+    // "$envmapcontrast" 1
+	// "$envmaptint" "[.4 .5 .55]"
+	"$model" 1
+    "$selfillum" 1
+	"$surfaceprop" "concrete"
+}

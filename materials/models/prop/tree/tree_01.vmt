@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "\models\prop\tree\tree_01"
+        "$bumpmap" "\models\prop\tree\tree_01_N"
+	// "$envmap" "env_cubemap"
+	// "$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "wood"
+        "$model" 1
+}

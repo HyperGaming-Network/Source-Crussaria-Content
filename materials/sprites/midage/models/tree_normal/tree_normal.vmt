@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"sprites/midage/models/tree_normal/tree_normal"
+	"$vertexcolor"	1
+	"$alphatest"	1
+}

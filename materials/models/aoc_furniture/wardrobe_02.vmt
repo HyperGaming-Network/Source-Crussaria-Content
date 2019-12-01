@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_furniture/wardrobe_02"
+	"$bumpmap" "models/aoc_furniture/wardrobe_02_norm"
+	"$surfaceprop" "Wood_Furniture"
+}

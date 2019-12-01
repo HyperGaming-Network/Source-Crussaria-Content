@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	
+	"$basetexture" "models\props\prop_nature01\redrock\redrock03"
+
+ 	//"$bumpmap" "models\props\prop_nature01\redrock\redrock01_n"
+	
+	"$sufaceprop" "rock"
+	
+	"$model" 1
+
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\books\parchment01
+	$bumpmap models\props_tes\books\parchment01_n
+	$surfaceprop paper
+}

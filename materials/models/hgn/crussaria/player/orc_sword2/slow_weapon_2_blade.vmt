@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\orc_sword2/slow_weapon_2"
+//	"$bumpmap" "models\hgn\crussaria\player\orc_sword2/slow_weapon_2_bump"
+	$no_draw 1
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/slow/amberlyn/lotr/uruk_hai_sword/slow_weapon_2"
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" .9
+	"$envmapsaturation" 0.25
+}

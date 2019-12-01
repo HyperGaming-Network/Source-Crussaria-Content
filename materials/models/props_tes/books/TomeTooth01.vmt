@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\books\tometooth01
+	$bumpmap models\props_tes\books\tometooth01_n
+	$surfaceprop paper
+}

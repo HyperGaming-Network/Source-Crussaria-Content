@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+
+{
+	
+	"$baseTexture"	"models/LockPicks/LockPicks"
+	"$bumpmap" "models/LockPicks/LockPicks_normal"
+	"$surfaceprop" "metal"
+
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1
+
+//	"$envmapcontrast" 0.6
+//	"$envmapsaturation" 0.9
+	
+}

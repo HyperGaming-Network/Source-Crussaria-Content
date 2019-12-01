@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/npc_cyclope_undead/glint"
+	"$additive" 1
+	"$model" 1
+}

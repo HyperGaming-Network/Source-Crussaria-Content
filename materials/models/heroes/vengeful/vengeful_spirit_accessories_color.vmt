@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+"$baseTexture" "models/heroes/vengeful/vengeful_spirit_accessories_color"
+"$bumpmap" "models/heroes/vengeful/vengeful_spirit_accessories_normal"
+"$phong" "1"
+"$phongexponenttexture" "models/heroes/vengeful/vengeful_spirit_accessories_s"
+"$phongboost"	"3"
+"$phongfresnelranges"	"[0.25 0.5 1]"
+}

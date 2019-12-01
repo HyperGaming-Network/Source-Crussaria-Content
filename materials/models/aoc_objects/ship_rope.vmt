@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_objects/ship_rope"
+	"$bumpmap" "models\AoC_objects/ship_rope_nm"
+	"$surfaceprop" "cloth"
+	"%keywords" "AoC"
+}

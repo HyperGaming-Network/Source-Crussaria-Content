@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L02_bigcarpet"
+	"$surfaceprop" "Carpet"
+	"$bumpmap" "hgn/cru/world/02_bigcarpet_normal"
+}

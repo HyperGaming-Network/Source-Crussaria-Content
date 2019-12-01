@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$baseTexture" "models\hgn\crussaria\player\armour\imperial\eyeball_l"
+	"$iris" "models\hgn\crussaria\player\armour\imperial\pupil_l"
+	"$halflambert" 1
+	"$nodecal" 1
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "darkland/rpg/monsters/gazer_diffuse"
+	"$bumpmap" "darkland/rpg/monsters/gazer_bump"
+}

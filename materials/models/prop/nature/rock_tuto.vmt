@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+
+              "$basetexture" "models\prop\nature\rock_tuto"
+	"$surfaceprop" "rock"
+              "$model" 1
+}

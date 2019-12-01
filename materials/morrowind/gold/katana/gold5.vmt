@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "morrowind/gold/katana/gold5"
+	"$surfaceprop" "metal"
+}

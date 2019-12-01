@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_furniture/drapes7"
+	 $alphatest 1
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\villagers\slow_villager_1_limbs"
+	"$bumpmap"	"models\hgn\crussaria\player\villagers\slow_villager_1_limbs_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges"	"[1 1 1]"
+}

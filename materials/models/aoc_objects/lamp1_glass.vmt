@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_objects/lamp1_glass"
+	"$selfillum" 1
+	"$bumpmap" "models\aoc_objects/lamp1_glass_nm"
+}

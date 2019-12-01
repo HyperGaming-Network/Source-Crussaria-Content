@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\books\smithyposter02
+	$bumpmap models\props_tes\books\smithyposter02_n
+	$surfaceprop paper
+}

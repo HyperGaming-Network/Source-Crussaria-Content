@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l01_stonestair"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/l01_stonestair_normal"
+
+//	"vertexlitgeneric_hdr_dx9"
+//		{
+//                        "$envmaptint" "[.3 .3 .3]"
+//		}
+}

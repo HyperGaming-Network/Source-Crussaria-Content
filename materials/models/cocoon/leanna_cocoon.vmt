@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture" "models\cocoon\Leanna_Cocoon"
+//	"$surfaceprop" "flesh"
+	"$translucent" 1 
+
+	"$bumpmap" "models\cocoon\Leanna_Cocoon_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.6	
+	"$envmaptint" "[.8 .8 .8]"
+	"$envmap" "env_cubemap"
+
+}

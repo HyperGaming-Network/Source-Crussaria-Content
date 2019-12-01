@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_tidelands"
+	"$surfaceprop" "concrete"
+	"%compilenonsolid" "1"
+	"$bumpmap" "hgn/cru/world/L01_tidelands_normal"
+	
+	//"$envmap" "env_cubemap"  --adds waterpuddles on (even) ground
+	//"$envmapsaturation" .75
+	//"$envmapcontrast" .5
+	//"$envmaptint" "[0.95 1 0.95]"
+	//"$normalmapalphaenvmapmask" 1
+
+	//"lightmappedgeneric_HDR_dx9"
+	//	{
+        //                "$envmaptint" "[.4 .4 .4]"
+	//	}
+
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/firecamp01/wood_logs01_v"
+	"$surfaceprop" "wood"
+	//"$bumpmap" "models/firecamp01/wood_logs01_v_normal"
+
+
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmap" "env_cubemap"
+}

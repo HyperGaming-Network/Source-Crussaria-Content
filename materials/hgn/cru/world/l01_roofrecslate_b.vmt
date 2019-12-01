@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/l01_roofrecslate_b"
+	"$surfaceprop" "Slate"
+	"$bumpmap" "hgn/cru/world/l01_roofrecslate_b_normal"
+	"%keywords" "L01"
+}

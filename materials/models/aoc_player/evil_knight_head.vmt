@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_player/evil_knight_head"
+	"$bumpmap" "models\aoc_player/evil_knight_head_nm"
+}

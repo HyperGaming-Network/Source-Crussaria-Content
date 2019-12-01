@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\mankind\mankind_soldier_cloth"
+	"$bumpmap" "models\monster\prop_knight\prop_knight_cloth_normal"
+
+	"$halflambert"		0
+	"$nocull"		0
+	"$nodecal" 		0
+	"$alphatest" 		1
+	"$translucent" 0
+
+//	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	1.3
+	"$phongboost" 		0.1
+	
+	"$rimlight_enable"	1
+	"$rimlight_exp"		6
+	"$rimlight_boost"	4
+	
+	"$sss_enable"		0
+	"$sss_color"		"[1 0 0 1]"
+
+}
+

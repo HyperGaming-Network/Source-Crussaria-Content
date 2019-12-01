@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/crussaria/player/lady2/slow_addons"
+	"$bumpmap" "models/hgn/crussaria/player/lady/slow_addons_bump"
+
+	"$nocull" 1
+	$no_draw 1
+ 	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost"	"11"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

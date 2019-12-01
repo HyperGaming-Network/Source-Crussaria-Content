@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "ls_firecrag/burnt_earth_fire"
+	"$basetexture2" "ls_firecrag/burnt_earth"
+	"%tooltexture" "ls_firecrag/burnt_earth"
+	"$selfillum1" 1
+	"$surfaceprop" "sand"
+	"$surfaceprop2" "sand"
+	"%keywords" "aoc"
+}

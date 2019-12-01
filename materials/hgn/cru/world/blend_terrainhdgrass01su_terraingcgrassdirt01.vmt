@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 	"hgn/cru/world/terrainhdgrass01su"
+	"$basetexture2" "hgn/cru/world/terraingcgrassdirt01"
+	"$surfaceprop" 		"grass"
+	"$surfaceprop2" 	"grass"
+	"$bumpmap"		    "hgn/cru/world/terrainhdgrass01su_n"
+	"$bumpmap2"		    "hgn/cru/world/terraingcgrassdirt01_n"
+	//"$blendmodulatetexture"         "hgn/srp/nature/modulate01"
+}

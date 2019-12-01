@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/ratwayarmorydoor01"
+	"$surfaceprop" "metal"
+	"$bumpmap" "hgn/cru/world/ratwayarmorydoor01_n"
+	"%keywords" "castle, door, crussaria"
+}

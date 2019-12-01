@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture" "models\aoc_weapon/halberd_metal1"
+	"$bumpmap" "models\aoc_weapon/halberd_metal1_nm"
+	"$surfaceprop" "metal"
+	"$model" 1
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 3 6]"
+	"$phongalbedotint" "1"
+
+}

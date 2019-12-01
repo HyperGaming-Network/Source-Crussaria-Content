@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\grim2\grim"
+	"$nocull" 1
+	"$bumpmap" "models\hgn\crussaria\player\grim2\grim_n"
+        "$alphatest" 1
+	"$halflambert" 1
+	//"$envmap" "env_cubemap"
+	"$envmaptint" "[ .36 .36 .30 ]"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+ 	"$surfaceprop" 	"flesh"
+	"$model" "1"	
+}

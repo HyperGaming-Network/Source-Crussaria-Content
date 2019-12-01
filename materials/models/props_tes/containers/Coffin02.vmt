@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\containers\coffin02
+	$bumpmap models\props_tes\containers\coffin02_n
+	$surfaceprop wood
+}

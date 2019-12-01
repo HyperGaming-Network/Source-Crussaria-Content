@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "ax/wood/wood_plank01"
+	"$bumpmap" "ax/wood/wood_plank01_bump"
+	"$surfaceprop" "wood_plank"
+	"%keywords" "aoc ax wood plank"
+}

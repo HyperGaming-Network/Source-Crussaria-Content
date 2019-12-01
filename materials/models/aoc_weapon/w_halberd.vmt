@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_weapon/w_halberd"
+	"$bumpmap" "models/aoc_weapon/w_halberd_nrm"
+	"$surfaceprop" "Metal"
+}

@@ -1,0 +1,7 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\grim\mouth"
+		"$bumpmap" "models\hgn\crussaria\player\grim\mouth_normal"
+	"$model" 1
+	"$halflambert" 1
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_facade_dooronly"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/L01_facade_dooronly_normal"
+	"%keywords" "L01"
+}

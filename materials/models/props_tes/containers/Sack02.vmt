@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\containers\sack02
+	$bumpmap models\props_tes\containers\sack02_n
+	$surfaceprop wood
+}

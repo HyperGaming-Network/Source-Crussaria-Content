@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+
+{	
+	"$baseTexture" "models/gold_bar/gold_bar"
+	"$bumpmap" "models/gold_bar/gold_bar_normal"
+
+	"$surfaceprop" "solid_metal"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.05
+	"$envmapsaturation" .95
+	"$envmaptint" "[0.9 0.9 0.5]"
+
+}

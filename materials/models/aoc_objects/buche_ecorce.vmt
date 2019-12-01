@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_Objects/buche_ecorce"
+	"$surfaceprop" "wood"
+	"%keywords" "AoC"
+}

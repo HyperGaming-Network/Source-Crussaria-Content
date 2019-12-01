@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models\hgn\crussaria\player\acitizen1\eyeball_l_black"
+	"$iris" "models\hgn\crussaria\player\acitizen1\pupil_l_black"
+	"$halflambert" "1"
+
+}

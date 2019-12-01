@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l01_stonewall00"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/l01_stonewall00_n"
+}

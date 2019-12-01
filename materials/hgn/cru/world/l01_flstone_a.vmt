@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_flstone_a"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/L01_flstone_a_n"
+	"%keywords" "L01"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+	"lightmappedgeneric_HDR_dx9"
+		{
+       		"$envmaptint" "[.4 .4 .4]"
+		}
+}

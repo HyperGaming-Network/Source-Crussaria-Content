@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_Trees/grass2_foilage"
+	 $alphatest 1
+ 	"$nocull" 1
+	"$model" 1
+}

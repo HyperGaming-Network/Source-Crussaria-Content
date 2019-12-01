@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_objects/animal_skin01"
+	"$translucent" 1
+}

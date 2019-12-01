@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+
+{
+	"$baseTexture"	"models/cr_ritualaltar/cr_ritualaltar"
+	"$bumpmap" "models/cr_ritualaltar/cr_ritualaltar_normal"
+
+	"$surfaceprop" "Stone"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" 1	
+	"$envmaptint" "[1 1 1]"
+
+//	"vertexlitgeneric_HDR_dx9"
+
+//		{
+//                       "$envmaptint" "[.2 .2 .2]"
+//		}
+
+}

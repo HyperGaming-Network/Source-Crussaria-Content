@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/L11_DragonStatue/L11_DragonStatue1"
+	"$bumpmap" "models/L11_DragonStatue/L11_DragonStatue1_normal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "wood"
+	"$normalmapalphaenvmapmask" 1
+	
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.8
+//	"$envmaptint" "[.1 .1 .1]"
+
+}

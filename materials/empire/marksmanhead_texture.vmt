@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "empire/marksmanhead_texture"
+	"VertexLitGeneric_DX9"
+	{
+		"$bumpmap" "empire/marksmanhead_texture_normal"
+	}
+}

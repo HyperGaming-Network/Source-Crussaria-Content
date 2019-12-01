@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l01_door_notuseable"
+	"$surfaceprop" "wood"
+	"$bumpmap" "hgn/cru/world/l01_door_notuse_normal"
+	"%keywords" "l01"
+}

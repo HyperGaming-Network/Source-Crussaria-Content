@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\human_sword/slow_face"
+	"$bumpmap" "models\hgn\crussaria\player\human_sword/slow_face_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "7"
+	"$phongboost"	"15"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

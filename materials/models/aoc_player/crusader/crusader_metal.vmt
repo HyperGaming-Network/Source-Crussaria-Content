@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_Player\Crusader/Crusader_Metal"
+
+	//"$envmapmask" "models\AoC_Player\Crusader/Crusader_Spec"
+	"$surfaceprop" "metal"
+	"$bumpmap"   "models\AoC_Player\Crusader/Crusader_Metal_normal"
+        "$envmap" "env_cubemap"  \
+        "$nocull"
+        "$normalmapalphaenvmapmask" 1
+        "$envmapcontrast" 1
+        "$model" 1
+        "$selfillum" 1
+
+	"$phong" "1"
+
+	"$phongexponent" "5"
+	"$phongboost" "0.5"
+	"$halflambert" "1"	
+	"$phongfresnelranges"	"[0.02 0.2 1]"
+	"$phongexponenttexture" "models/AoC_Weapon/Crusader_Metal" 
+	"$phongalbedotint" "1"
+
+}

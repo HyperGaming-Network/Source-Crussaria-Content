@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+
+{
+	
+	"$baseTexture" "Models\L09\L09_zombie"
+	"$bumpmap" "Models\L09\L09_zombie_normal"
+	"$surfaceprop" "flesh"
+
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmapcontrast" 0.5
+	//"$envmapsaturation" 0.8
+
+
+}
+

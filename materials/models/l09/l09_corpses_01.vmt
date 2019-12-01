@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+
+{
+	
+	"$baseTexture"	"Models\L09\L09_corpses_01"
+	"$bumpmap" "Models\L09\L09_corpses_01_normal"
+	"$surfaceprop" "flesh"
+
+	//"$translucent" 1
+	"$alphatest" 1
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"lightmappedgeneric_HDR_dx9"
+		{
+                        "$envmaptint" "[.25 .25 .25]"
+		}
+}
+

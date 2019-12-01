@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{	
+	"$baseTexture"	"models/l11_optim/wood_planks_burned"
+	"$surfaceprop" "wood"
+	"$bumpmap" "models/l11_optim/Wood_planks_burned_normal"
+}

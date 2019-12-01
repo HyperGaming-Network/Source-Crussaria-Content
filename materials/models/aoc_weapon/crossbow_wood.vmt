@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture" "models\AoC_Weapon/crossbow_wood"
+	"$surfaceprop" "wood"
+	"$bumpmap"   "models\AoC_Weapon/crossbow_wood_nm"
+	"$model" 1
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "6"	
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$halflambert" 1
+}

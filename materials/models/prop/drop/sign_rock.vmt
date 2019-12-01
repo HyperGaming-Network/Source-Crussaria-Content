@@ -1,0 +1,45 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\prop\drop\sign_rock"
+	"$bumpmap" "models\prop\drop\sign_rock_normal" 
+
+	"$nocull"		1
+	"$nodecal" 		0
+	"$alphatest" 		0
+	"$translucent" 		0
+	"$halflambert"		0
+
+	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	            ""
+	"$phongexponent" 	25
+	"$phongboost" 		3
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		7
+	"$rimlight_boost"	2
+	
+	"$sss_enable"		1
+	"$sss_mask"		1
+	"$sss_color"		"[1 0 55 1]"
+	
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\grim\grimbody"
+	"$halflambert" 1
+	"$bumpmap" "models\hgn\crussaria\player\grim\grim_normal"
+    "$alphatest" 1
+    "$model" 1
+    "$nocull" 1
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"sprites/midage/models/tree_oak/tree_oak"
+	"$vertexcolor"	1
+	"$alphatest"	1
+}

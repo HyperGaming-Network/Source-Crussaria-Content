@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\t01_store\t01_store_metal01"
+           "$bumpmap" "models\prop\t01_store\t01_store_metal01_n"
+	"$envmap" "env_cubemap"
+        "$envmaptint" "[0.3 0.3 0.3]"
+            "$normalmapalphaenvmapmask" 1
+       "$alphatest" "1"
+        "$surfaceprop" "metal"
+        "$model" 1
+}

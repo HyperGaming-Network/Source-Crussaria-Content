@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "\models\misc\campfire"
+	"$bumpmap" "\models\misc\campfire_n"
+	
+	"$nocull"			1
+	"$nodecal" 			1
+	"$halflambert"		0
+	"$alphatest" 0
+	"$translucent" 0
+}
+
+

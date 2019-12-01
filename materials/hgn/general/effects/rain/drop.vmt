@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"hgn/general/effects/rain/drop"
+	"$vertexcolor" 1 
+	"$vertexalpha" 1 
+	"$translucent" 1
+	
+	"$bumpmap"			"hgn/general/effects/rain/drop_normal"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/Torch_gob/Fabric_Torch02"
+	"$surfaceprop" "Fabric"
+}

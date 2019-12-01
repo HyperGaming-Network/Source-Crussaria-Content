@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "world\building\altar01"
+             //"$bumpmap" "world\building\altar01_N"
+	"$surfaceprop" "rock"
+}

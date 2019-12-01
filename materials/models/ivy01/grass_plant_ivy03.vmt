@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/ivy01/Grass_plant_Ivy03"
+	"$surfaceprop" "Grass"
+	"$translucent" 1
+	"$bumpmap" "models/ivy01/Grass_Plant_Ivy03_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmap" "env_cubemap"
+}

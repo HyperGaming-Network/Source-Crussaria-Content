@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/wrcitywall02"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/wrcitywall02_n"
+	"%keywords" "castle,concete,wall,crussaria"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapon\_monster\bow_kobold_ice"
+	"$normalmapalphaenvmapmask" 1
+        "$translucent" 0
+        "$alphatest" 1
+        "$nocull" 0
+
+
+       
+}

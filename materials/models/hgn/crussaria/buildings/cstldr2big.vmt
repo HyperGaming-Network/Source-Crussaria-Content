@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "de_cbble/cstldr2big"
+	"$surfaceprop" "wood"
+	"$bumpmap" "de_cbble/cstldr2big_normal"
+ 	"$envmap" "env_cubemap"
+	"%keywords" "cstrike"
+	"$normalmapalphaenvmapmask" 1
+}

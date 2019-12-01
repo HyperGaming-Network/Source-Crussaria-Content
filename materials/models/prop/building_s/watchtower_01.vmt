@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\building_S\watchtower_01"
+      //   "$bumpmap" "models\prop\building_S\wood02_n"
+    //	"$envmap" "env_cubemap"
+	// "$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "wood"
+        "$model" 1
+}

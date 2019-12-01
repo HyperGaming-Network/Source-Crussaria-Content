@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\t01\t01_signboard03"
+           "$bumpmap" "models\prop\t01\t01_signboard03_n"
+
+	"$envmap"		"env_cubemap"
+	"$envmapcontrast"	1
+	"$envmaptint"		"[0.4 0.4 0.4]" 
+
+	"$nocull"	0
+	"$nodecal"	1
+	"$alphatest"	1
+	"$translucent"	0
+	"$halflambert"	1
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		2
+	"$rimlight_boost"	 2
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_furniture/table_03a"
+	"$normalmap" "Table_03a_norm"
+}

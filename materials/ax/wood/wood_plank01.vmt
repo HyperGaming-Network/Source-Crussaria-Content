@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ax/wood/wood_plank01"
+	"$bumpmap" "ax/wood/wood_plank01_bump"
+	"$surfaceprop" "Wood_Plank"
+	"%keywords" "aoc ax wood plank"
+}

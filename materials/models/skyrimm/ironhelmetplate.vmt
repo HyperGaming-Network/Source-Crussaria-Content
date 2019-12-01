@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/ironhelmetplate"
+	"$bumpmap" "models/skyrimm/ironhelmetplate_n"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.4"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 6 10]"
+	"$ambientocclusion" "1"
+}

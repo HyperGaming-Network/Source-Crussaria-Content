@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+
+{
+	
+	"$baseTexture" "Models\L09\L09_gob_Shield"
+	"$bumpmap" "Models\L09\L09_gob_Shield_normal"
+	"$surfaceprop" "flesh"
+}
+

@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "monsters/tx_cyclops_eye02"
+	"$iris" "monsters/tx_cyclops_iris01"
+	"$halflambert" "1"
+	"$nodecal" "1"
+}

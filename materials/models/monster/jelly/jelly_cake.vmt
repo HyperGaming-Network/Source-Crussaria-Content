@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\jelly\jelly_cake"
+	"$bumpmap"	"models\monster\jelly\jelly_cake_normal"
+	"$nocull"		0
+	"$nodecal" 		1
+	"$alphatest" 		0
+	"$translucent" 		0
+	"$halflambert"	1
+
+	"$phong_enable"		1
+	"$phongexponentmap"	"models\monster\jelly\jelly_cake_PE"
+	"$phongexponent" 	2
+	"$phongboost" 		0.5
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		2
+	"$rimlight_boost"	8
+	
+	"$sss_enable"		0
+	"$sss_color"		"[0.3 0.3 0.4 0.3]"
+	
+}

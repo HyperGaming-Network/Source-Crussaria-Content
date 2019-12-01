@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "monsters/tx_cyclops_body02"
+	"$bumpmap" "monsters/tx_cyclops_body01_normal"
+	"$model" "1"
+	"$vertexcolour" 1
+}

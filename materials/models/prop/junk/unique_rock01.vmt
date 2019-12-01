@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\prop\junk\unique_rock01"
+	"$bumpmap"	"models\prop\junk\unique_rock01_normal"
+
+	"$halflambert"		0
+	"$nocull"		0
+	"$nodecal" 		1
+	"$alphatest" 		0
+	"$translucent" 		0
+
+	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	8
+	"$phongboost" 		.5
+	"$rimlight_enable"	1
+	"$rimlight_exp"		2
+	"$rimlight_boost"	1
+}
+	

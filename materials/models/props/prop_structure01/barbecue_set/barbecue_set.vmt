@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\props\prop_structure01\barbecue_set\barbecue_set"
+	"$surfaceprop" "flesh"
+	"$model" "1"
+}

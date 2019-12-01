@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+ "$basetexture" "dr/dr_stonewall2_3"
+ "$surfaceprop" "brick"
+ "%keywords" "ageofchivalry"
+ "$bumpmap" "dr/dr_stonewall2_3_normal"
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "de_dust/residbwall02"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "de_dust/residbwall02_normal"
+	"%keywords" "cstrike" 
+}

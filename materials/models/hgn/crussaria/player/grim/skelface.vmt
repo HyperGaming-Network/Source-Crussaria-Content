@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\grim\skelface"
+		"$bumpmap" "models\hgn\crussaria\player\grim\skelface_normal"
+}

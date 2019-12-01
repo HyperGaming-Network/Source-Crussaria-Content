@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_trees/aoc_pine_bark"
+	"$bumpmap" "models\aoc_trees/aoc_pine_bark_nm"
+}

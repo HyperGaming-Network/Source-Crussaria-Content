@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\gnoll\gnoll_dimgray"
+	"$bumpmap" "models\monster\gnoll\gnoll_dimgray_normal" 
+	"$nocull"		0
+	"$nodecal" 		0
+	"$alphatest" 		0
+	"$translucent" 		0
+	"$halflambert"	1
+
+	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	3
+	"$phongboost" 		1.2
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"   1
+	"$rimlight_boost"	1.5
+
+	"$sss_enable"		0
+	"$sss_color"		"[1 0 0 1]"
+}

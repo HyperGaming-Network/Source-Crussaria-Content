@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/cobblestone01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/cobblestone01_n"
+	"%keywords" "castle, stone, crussaria"

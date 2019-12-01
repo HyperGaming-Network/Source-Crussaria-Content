@@ -1,0 +1,6 @@
+"Eyeball"
+{
+	"$basetexture" "models\hgn\crussaria\player\armour\imperial\pupil_r"
+		"$nolight" 1
+	"$alphatest" "1"
+}

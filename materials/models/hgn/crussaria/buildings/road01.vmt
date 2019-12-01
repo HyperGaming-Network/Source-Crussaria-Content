@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/road01"
+	"$surfaceprop" "gravel"
+	"$bumpmap" "hgn/cru/world/road01_n"
+	"%keywords" "castle,road,terrain,crussaria"
+}

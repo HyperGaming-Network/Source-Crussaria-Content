@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\props\prop_building01\barrack\barrack_all"
+              "$bumpmap" "models\props\prop_building01\barrack\barrack_all_n"
+	"$alphatest" "1"
+	"$surfaceprop" "wood"
+	"$model" 1
+	"$nocull" 1
+}

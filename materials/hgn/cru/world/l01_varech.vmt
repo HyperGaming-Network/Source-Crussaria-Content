@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_varech"
+	"$bumpmap" "hgn/cru/world/L01_varech_normal"
+
+	"$surfaceprop" "grass"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+	"$envmapcontrast" 0.5
+	"$envmapsaturation" 0.61
+}

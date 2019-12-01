@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L05_darkceiling"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/L05_templeceiling_n"
+	"%keywords" "L05"
+}

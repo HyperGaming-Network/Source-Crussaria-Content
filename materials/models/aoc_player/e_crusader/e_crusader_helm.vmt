@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_player/e_crusader/e_crusader_helm"
+	"$bumpmap" "models/aoc_player/g_crusader/crusader_helm_nm"
+	"$model" 1
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "2"
+	"$phongfresnelranges" "[1 3 6]"
+	"$phongalbedotint" "1"
+
+}

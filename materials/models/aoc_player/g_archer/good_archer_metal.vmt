@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture" "models\AoC_Player\g_archer/good_archer_metal"
+	"$bumpmap"   "models\AoC_Player\g_archer/good_archer_metal_nm"
+	"$surfaceprop" "metal"
+	"$model" 1
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 3 6]"
+	"$phongalbedotint" "1"
+
+}

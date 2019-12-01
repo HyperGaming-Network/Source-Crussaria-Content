@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "dr/dr_castle_stone"
+	"$bumpmap" "dr/dr_castle_stone_normal"
+	// remove the backslashes to enable parallax
+    	//"$parallaxmap" "dr/dr_castle_stone_bump"
+    	//"$parallaxmapscale" 0.05
+ 	"$surfaceprop" "brick"
+ 	"%keywords" "ageofchivalry"
+}

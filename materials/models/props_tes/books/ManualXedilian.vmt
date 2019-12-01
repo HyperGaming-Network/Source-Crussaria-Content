@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\books\ManualXedilian
+	$bumpmap models\props_tes\books\ManualXedilian_n
+	$surfaceprop paper
+}

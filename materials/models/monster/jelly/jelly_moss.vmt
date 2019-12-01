@@ -1,0 +1,39 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\jelly\jelly_moss"
+	"$bumpmap"	"models\monster\jelly\jelly_moss_normal"
+	"$envmap"		"env_cubemap"
+	"$envmapcontrast"	0.1
+	"$envmaptint"		"[0.76 1 0.83]" 
+
+
+	"$alphatest" 1
+	"$translucent" 1
+	"$selfillum" 0
+	"$halflambert" 0
+	"$nodecal" 1
+	"$zwriteenable" 1
+	"$additive" 0
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	11
+	"$phongboost" 		11
+
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		3
+	"$rimlight_boost"	15
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.15
+			"texturescrollangle" 170
+		}
+
+	}
+
+}

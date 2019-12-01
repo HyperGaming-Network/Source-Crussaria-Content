@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\npc\Rochest\pub\npc_pub_man_03"
+	"$bumpmap"     "models\npc\Rochest\pub\npc_pub_man_03_normal" 
+
+	"$halflambert"		1
+	"$nocull"		0
+	"$nodecal" 		1
+	"$alphatest" 		1
+	"$translucent" 		0
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	8
+	"$phongboost" 		0.02
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		3
+	"$rimlight_boost"	3
+
+	"$sss_enable"		0
+	"$sss_mask"			1
+	"$sss_color"		"[1 0 0 0.2]"
+}

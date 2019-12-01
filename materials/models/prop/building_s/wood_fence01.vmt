@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\building_S\wood_fence01"
+         "$surfaceprop" "wood"
+        "$model" 1
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/L12_statue01/L12_statue"
+	"$bumpmap" "models/L12_statue01/L12_statue_normal"
+//	"$envmap" "env_cubemap"
+	"$surfaceprop" "stone"
+//	"$normalmapalphaenvmapmask" 1
+	
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" 1
+//	"$envmaptint" "[0.7 0.7 0.7]"
+//	"$selfillum" 1
+
+}

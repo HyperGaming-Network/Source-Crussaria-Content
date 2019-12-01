@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture" "models\aoc_sorrow\broken_building"
+	"$bumpmap" "models\aoc_sorrow\broken_building_normal"
+	"$surfaceprop" "rock"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmap" "env_cubemap"
+        "$envmaptint" "[.5 .5 .5]"
+
+
+}

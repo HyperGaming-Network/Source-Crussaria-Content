@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/table/table"
+	"$surfaceprop" "wood"
+	"$bumpmap" "models/table/table_normal"
+
+}

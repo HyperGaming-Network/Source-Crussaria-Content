@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\t01_adv_store\t01_advS_box01"
+          //  "$bumpmap" "models\prop\t01_adv_store\t01_advS_box01_n"
+	//"$envmap" "env_cubemap"
+         //   "$normalmapalphaenvmapmask" 1
+        //"$alphatest" "1"
+        "$surfaceprop" "metal"
+        "$model" 1
+        //"$nocull" 1
+}

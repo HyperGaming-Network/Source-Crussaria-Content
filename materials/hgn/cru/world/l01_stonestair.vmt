@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_stonestair"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/L01_stonestair_normal"
+
+//	"lightmappedgeneric_HDR_dx9"
+//		{
+//                        "$envmaptint" "[.3 .3 .3]"
+//		}
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/rfcastlestoneblocks001"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/rfcastlestoneblocks001_n"
+	"%keywords" "castle, stone, crussaria"
+}

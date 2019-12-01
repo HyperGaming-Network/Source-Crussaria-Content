@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_objects/sconce_01"
+	"$surfaceprop" "metal"
+	"%keywords" "AoC"
+}

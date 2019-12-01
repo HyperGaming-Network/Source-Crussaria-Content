@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\t01_inn\t01_inn_carpet01"
+          //  "$bumpmap" "models\prop\t01_inn\t01_inn_carpet01_n"
+	//"$envmap" "env_cubemap"
+         //   "$normalmapalphaenvmapmask" 1
+        "$alphatest" "1"
+        "$surfaceprop" "carpet"
+        "$model" 1
+}

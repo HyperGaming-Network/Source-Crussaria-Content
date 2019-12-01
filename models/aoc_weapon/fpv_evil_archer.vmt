@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_weapon/fpv_evil_archer"
+	"$bumpmap" "models/aoc_weapon/fpv_evil_archer_nm"
+	"$surfaceprop" "Flesh"
+	"$model" 1
+	"$phong" 1	
+	"$phongexponent" 15
+	"$phongboost" "2"					
+	"$phongfresnelranges"	"[.1 .5 1.0]"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\dwarfmodel\slow_face"
+	"$bumpmap"  "models\hgn\crussaria\player\dwarfmodel\slow_face_bump"
+
+	"$nocull" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

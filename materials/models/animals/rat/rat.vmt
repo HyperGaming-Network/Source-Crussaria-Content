@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\animals\rat/rat"
+	"$bumpmap"	"models\animals\rat\rat_normal"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[ .1 .1 .1 ]"
+
+}

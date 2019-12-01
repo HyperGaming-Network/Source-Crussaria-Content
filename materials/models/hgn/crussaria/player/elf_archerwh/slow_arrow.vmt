@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\elf_archer\slow_addons"
+	"$bumpmap" "models\hgn\crussaria\player\elf_archer\slow_addons_bump"
+	$no_draw 1
+	"$nocull" 1
+	"$alphatest" 1
+}

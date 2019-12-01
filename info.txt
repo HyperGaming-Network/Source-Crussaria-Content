@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"	"Crussaria Alpha pack 0.3"
+	"up_date"	"10/7/2011"
+	"author_name"	"Last.Exile HyperGamer.net"
+	"info"	"Crussaria Content pack"
+}

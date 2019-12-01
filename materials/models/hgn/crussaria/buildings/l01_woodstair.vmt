@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l01_woodstair"
+	"$surfaceprop" "wood"
+	"$bumpmap" "hgn/cru/world/l01_woodstair_n"
+}

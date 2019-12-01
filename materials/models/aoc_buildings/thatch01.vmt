@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_buildings/thatch01"
+	"$bumpmap" "models\aoc_buildings/thatch01_norm"
+}

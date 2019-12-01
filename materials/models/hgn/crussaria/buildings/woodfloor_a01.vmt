@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "hgn/frp/world/woodfloor_a01"
+	"$surfaceprop" 		"wood_plank"
+}

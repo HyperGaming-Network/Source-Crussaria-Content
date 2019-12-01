@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_whitestone_down"
+	"$surfaceprop" "concrete"
+	"%compilenonsolid" 1
+	"$bumpmap" "hgn/cru/world/L01_whitestone_normal"
+}

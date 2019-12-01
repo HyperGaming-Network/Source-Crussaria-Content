@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/NPC_Cyclope_Undead/NPC_Cyclope_Undead"
+	"$surfaceprop" "flesh"
+	"$bumpmap" "models/NPC_Cyclope_Undead/NPC_Cyclope_Undead_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.5
+	"$envmapsaturation" 1
+	"$envmaptint" "[.8 .8 .8]"
+
+	"$envmap" "env_cubemap"
+
+	"vertexlitgeneric_HDR_dx9"
+
+	{
+              "$envmaptint" "[.6 .6 .6]"
+	}
+
+
+}

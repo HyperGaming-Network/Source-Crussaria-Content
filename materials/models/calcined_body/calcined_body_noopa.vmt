@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+
+{	
+	"$baseTexture" "Models/calcined_body/calcined_body_01"
+//	"$bumpmap" "Models/calcined_body/calcined_body_01_normal"
+
+//	"$translucent" 1
+      //"$alphatest" "1"
+
+	//"$surfaceprop" "stone"
+}

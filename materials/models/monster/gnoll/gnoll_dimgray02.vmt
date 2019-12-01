@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\gnoll\gnoll_dimgray"
+	"$bumpmap" "models\monster\gnoll\gnoll_dimgray_normal" 
+	
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[1 1 1]" 
+	
+	"$halflambert" 1
+	"$nocull" 0
+	"$nodecal" 0
+	"$alphatest" 1
+	"$translucent" 0
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		20
+	"$rimlight_boost"	8
+	
+	
+	"$surface" "metal"
+}

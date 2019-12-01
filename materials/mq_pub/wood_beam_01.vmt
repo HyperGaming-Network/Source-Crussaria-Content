@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mq_pub/wood_beam_01"
+	"$surfaceprop" "Wood_Solid"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_weapon/fpv_good_footman"
+	"$bumpmap" "models/aoc_weapon/fpv_good_footman_nm"
+	"$surfaceprop" "Metal"
+}

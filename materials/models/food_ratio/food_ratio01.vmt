@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/food_ratio/food_ratio01"
+	"$surfaceprop" "grass"
+	"$bumpmap" "models/food_ratio/food_ratio01_normal"
+
+}

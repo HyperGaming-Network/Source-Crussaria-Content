@@ -1,0 +1,42 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\animals\bug"
+	"$bumpmap"	"models\animals\bug_nm"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .01 .05 .01 ]"
+	"$envmap" "env_cubemap"
+		
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" "0.1"	
+	"$phongfresnelranges"	"[3 2.1 9]"
+	
+	"$RIMLIGHT" "1"
+	"$RIMLIGHTEXPONENT" "100"
+	"$RIMLIGHTBOOST"  "0.02"
+	"$rimmmask" "1"
+	
+	"$selfillum" "1"
+	
+	"$phongwarptexture"  "models/wrap/greenmanduco"
+	
+	//EYE VISION
+	"$sensitivewPassEnabled" "1"//Enable sensitive wave for this npc
+    "$eyevisionBlendEnabled"      "1" // Enables eyevision for this npc
+
+    "$eyevisionbrightnesslevel"  "3" //scale brightness during eyevision
+    "$disallowevchanges"        "1" //should be use for all npcs
+	
+	"$eyevisiononlysoundt"			"0"	//Do not use eyevision, only soundt
+	
+	"Proxies"
+        {
+            "vs_eyevision"
+				{
+                }
+            "vs_sensitivewave"
+                {
+                }
+        }
+}

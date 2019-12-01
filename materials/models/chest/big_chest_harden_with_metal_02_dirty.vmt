@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/chest/big_chest_harden_with_metal_02_dirty"
+	"$surfaceprop" "wood"
+	//"$alphatest" 1
+	"$bumpmap" "models/chest/big_Chest_harden_with_metal_normal_02"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/l05_optim/wood_cut"
+	"$surfaceprop" "wood"
+
+}

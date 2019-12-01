@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	
+"$basetexture" "models\props\prop_structure01\signboard\signboard_trade01"
+
+//"$bumpmap" "models\props\prop_structure01\guidepost\guidepost_n"	
+
+"$sufaceprop" "wood"
+	
+"$model" 1
+
+}

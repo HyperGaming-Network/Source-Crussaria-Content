@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "skyrim/akaviri/katana/dwarvenupper"
+	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$bumpmap"	"skyrim/akaviri/katana/dwarvenupper_n"
+	"$phongexponenttexture"	"skyrim/akaviri/katana/dwarvenupper_n"
+	"$phongboost"				"5.0"
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "2"
+	"$rimlightboost"          ".2"
+}

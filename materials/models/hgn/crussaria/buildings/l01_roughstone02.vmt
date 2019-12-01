@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l01_roughstone02"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/l01_roughstone01_n"
+	
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+}

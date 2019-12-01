@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_objects/fabric_03"
+	"$bumpmap" "models\AoC_objects/fabric_03_normal"
+	"$nocull" 1
+	"$surfaceprop" "carpet"
+	"%keywords" "AoC"
+}

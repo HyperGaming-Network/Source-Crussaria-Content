@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\kobold\mon_kobold_calm_A"
+	"$bumpmap" "models\monster\kobold\mon_kobold_calm_normal_A"
+
+
+	"$nocull"		1
+	"$nodecal" 		0
+	"$alphatest" 		1
+	"$translucent" 		0
+	"$halflambert"		0
+
+	"$envmapmask"		"models\monster\kobold\mon_kobold_calm_A_sp"
+
+	"$phong_enable"		1
+	"$phongexponentmap"	            "models\monster\kobold\mon_kobold_calm_A_sp2"
+	"$phongexponent" 	10
+	"$phongboost" 		0.4
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		5
+	"$rimlight_boost"	55
+
+
+	"$sss_enable"		0
+	"$sss_color"		"[0.1 0 0 1]"
+
+}

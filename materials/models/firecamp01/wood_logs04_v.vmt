@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+
+{
+	"$baseTexture"	"models/firecamp01/wood_logs04_v"
+	"$bumpmap" "models/firecamp01/wood_logs04_v_normal"
+
+	"$surfaceprop" "wood"
+}

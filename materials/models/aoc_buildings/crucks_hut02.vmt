@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_buildings/crucks_hut02"
+	"$bumpmap" "models\aoc_buildings/crucks_hut02_norm"
+}

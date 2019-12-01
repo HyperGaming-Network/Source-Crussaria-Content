@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_timbering"
+	"$surfaceprop" "Wood"
+	"$bumpmap" "hgn/cru/world/L01_timbering_n"
+}

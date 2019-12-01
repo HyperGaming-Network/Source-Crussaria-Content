@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/firecamp01/ashes02"
+	"$surfaceprop" "dirt"
+	"$translucent" 1
+//	"$alphatest" "1" 
+//	"$bumpmap" "models/firecamp01/ashes01_normal"
+
+
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmap" "env_cubemap"
+}

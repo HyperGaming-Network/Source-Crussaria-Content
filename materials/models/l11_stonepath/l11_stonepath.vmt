@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/l11_stonepath/l11_stonepath"
+	"$surfaceprop" "stone"
+	"$bumpmap" "models/l11_stonepath/l11_stonepath_normal"
+	"%keywords" "L11"
+	
+}

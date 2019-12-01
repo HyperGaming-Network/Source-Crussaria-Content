@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/rt_applique/rt_applique"
+	"$surfaceprop" "stone"
+	"$bumpmap" "models/rt_applique/rt_applique_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+
+
+	"$envmap" "env_cubemap"
+
+}

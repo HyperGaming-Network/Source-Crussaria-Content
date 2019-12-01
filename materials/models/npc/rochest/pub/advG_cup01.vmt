@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\npc\Rochest\pub\advG_cup01"
+          //  "$bumpmap" "models\prop\adven_guild\advG_cup01_n"
+	//"$envmap" "env_cubemap"
+         //   "$normalmapalphaenvmapmask" 1
+        //"$alphatest" "1"
+        "$surfaceprop" "metal"
+        "$model" 1
+}

@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\monster\cragdigger\qyrmigal_body"
+//	"$bumpmap" "models\monster\cragdigger\qyrmigal_body_normal"
+
+	"$nocull"		0
+	"$nodecal" 		0
+	"$alphatest" 		0
+	"$translucent" 		0
+	"$halflambert"		0
+
+	"$envmapmask"		""
+
+	"$phong_enable"		0
+	"$phongexponentmap"	            ""
+	"$phongexponent" 	3.5
+	"$phongboost" 		0.7
+
+	"$rimlight_enable"	0
+	"$rimlight_exp"		5
+	"$rimlight_boost"	11
+
+
+	"$sss_enable"		0
+	"$sss_color"		"[0.1 0 0 1]"
+
+}
+
+

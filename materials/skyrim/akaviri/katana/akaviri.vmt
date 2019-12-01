@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "skyrim/akaviri/katana/akaviri"
+	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$bumpmap"	"skyrim/akaviri/katana/akaviri_n"
+	"$phongexponenttexture"	"skyrim/akaviri/katana/akaviri_n"
+	"$phongboost"				"5.0"
+	"$phongfresnelranges"		"[0 0.5 1]"
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+
+{
+	
+	"$baseTexture" "Models\L09\L09_goblin_basic"
+	"$bumpmap" "Models\L09\L09_goblin_normal"
+	"$surfaceprop" "flesh"
+
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+}
+

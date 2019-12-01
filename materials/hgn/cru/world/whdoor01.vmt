@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"hgn/cru/world/whdoor01"
+	"$surfaceprop" 		"wood"
+	"$bumpmap"		    "hgn/cru/world/whdoor01_n"
+	"%keywords" "sewers, wood, door, crussaria"
+}

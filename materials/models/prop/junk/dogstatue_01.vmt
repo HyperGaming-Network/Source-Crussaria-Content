@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+        "$basetexture" "models\prop\junk\dogstatue_01"
+	"$bumpmap" "models\prop\junk\dogstatue_01_n"
+
+        "$surfaceprop" "rock"
+        "$alphatest" "1"
+        "$model" 1
+}

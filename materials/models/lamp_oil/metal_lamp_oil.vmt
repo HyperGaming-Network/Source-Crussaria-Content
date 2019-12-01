@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/lamp_oil/Metal_lamp_oil"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/lamp_oil/Metal_lamp_oil_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+
+
+	"$envmap" "env_cubemap"
+
+}

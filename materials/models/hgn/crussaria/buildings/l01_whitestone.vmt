@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"hgn/cru/world/l01_whitestone"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/l01_whitestone_normal"
+}

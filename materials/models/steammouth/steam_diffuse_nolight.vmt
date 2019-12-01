@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/steammouth/steam_diffuse_nolight"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "models/steammouth/steam_diffuse_nolight_normal"
+
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\robes\robe_head_mathew"
+	"$bumpmap"	"models\hgn\crussaria\player\robes\robe_head_mathew_n"		
+
+ 	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges"	"[1 1 1]"
+}

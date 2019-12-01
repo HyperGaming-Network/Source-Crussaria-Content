@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\crussaria\player\acitizen1\blacknail"
+	"$bumpmap" "models\hgn\crussaria\player\acitizen1\blacknail_n"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "0.04"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 6 15]"
+
+	"$ambientocclusion" "1"
+}

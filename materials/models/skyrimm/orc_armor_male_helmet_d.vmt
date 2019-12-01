@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/orc_armor_male_helmet_d"
+	"$bumpmap" "models/skyrimm/orc_armor_male_helmet_n"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.6"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 4 10]"
+	"$ambientocclusion" "1"
+
+	"$detail" "models/skyrimm/detail_scratchedmetal"
+	"$detailscale" "6"
+	"$detailblendfactor" "1.5"
+	"$detailblendmode" "0"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .2 .2 .2]"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1"
+	"$normalmapalphaenvmapmask" "1"
+}

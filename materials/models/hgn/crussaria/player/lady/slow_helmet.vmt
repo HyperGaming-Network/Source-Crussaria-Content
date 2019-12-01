@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/crussaria/player/lady/helmet"
+	"$bumpmap" "models/hgn/crussaria/player/lady/helmet_bump"
+
+	"$nocull" 1
+	//$no_draw 1
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost"	"15"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

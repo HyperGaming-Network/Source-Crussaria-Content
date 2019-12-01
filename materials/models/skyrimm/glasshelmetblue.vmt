@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/glasshelmet"
+	"$bumpmap" "models/skyrimm/glasshelmet_n"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"
+	"$phongalbedotint" "1"
+	"$phongtint" "[0.3 1 0.8]"
+	"$phongfresnelranges"	"[0.5 6 15]"
+	"$ambientocclusion" "1"
+
+	"$detail" "models/skyrimm/detail_scratchedmetal"
+	"$detailscale" "6"
+	"$detailblendfactor" "1.5"
+	"$detailblendmode" "0"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .09 .45 .45]"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1"
+	"$normalmapalphaenvmapmask" "1"
+}

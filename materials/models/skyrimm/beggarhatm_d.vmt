@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/beggarhatm_d"
+	"$bumpmap" "models/skyrimm/beggarhatm_n"
+	"$alphatest" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost" "0.1"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 3 8]"
+
+	"$detail" "models/skyrimm/detail_fabric"
+	"$detailscale" "10"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "0"
+
+}

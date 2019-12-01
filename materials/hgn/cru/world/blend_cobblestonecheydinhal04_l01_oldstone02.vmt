@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 	"hgn/cru/world/cobblestonecheydinhal04"
+	"$basetexture2" "hgn/cru/world/l01_oldstone02"
+	"$surfaceprop" 		"concrete"
+	"$surfaceprop2" 	"concrete"
+	"$bumpmap"		    "hgn/cru/world/cobblestonecheydinhal01_n"
+	"$bumpmap2"		    "hgn/cru/world/l01_oldstone02_n"
+	//"$blendmodulatetexture"         "hgn/srp/nature/modulate01"
+	"%keywords" "L01,stone,terrain"
+}

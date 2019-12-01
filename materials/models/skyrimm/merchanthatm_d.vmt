@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/merchanthatm_d"
+	"$bumpmap" "models/skyrimm/merchanthatm_n"
+	"$nocull" "1"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.2"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 4 8]"
+
+	"$detail" "models/skyrimm/detail_fabric"
+	"$detailscale" "10"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "0"
+
+}

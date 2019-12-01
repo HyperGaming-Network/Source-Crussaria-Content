@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_foliage/branch01"
+	"$nocull" 1
+	"$translucent" 1
+	"$alphatest " 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\AoC_objects/rooftile"
+	"$surfaceprop" "wood"
+	"%keywords" "AoC"
+}

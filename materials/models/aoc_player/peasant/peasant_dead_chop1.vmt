@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/aoc_player/peasant/peasant_dead_chop1"
+	"$model" "1"
+	"$halflambert" "1"
+		
+	"$surfaceprop" "flesh"
+	"$phong" "1"
+	"$phongboost" "0.1"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .2 1.0]"
+	"$phongexponent" 20
+}

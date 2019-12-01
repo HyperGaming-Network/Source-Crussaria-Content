@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "monsters/tx_giantinsect_02"
+	"$bumpmap" "monsters/tx_giantinsect_normal"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+	"$vertexcolour" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 .2 .2]"
+	"$normalmapalphaenvmapmask" 1
+}

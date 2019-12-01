@@ -1,0 +1,93 @@
+
+"unlitgeneric"
+{
+	"$basetexture" "Decals/portaleffect_02"
+             "$translucent" 1
+//	"$decal" 1
+//	"$decalscale" 0.25
+	"$cloudalphatexture" "Decals/portaleffect_alpha_01"
+	"$cloudscale" "[ 1 1 1 ]"
+	"$maskscale" "[ 1.00 1.00 1.00 ]"
+	"$additive" "1"
+              "$nocull" "1"
+               "$model" "1"
+	"%tooltexture" "shadertest/jet_scroll"
+
+	"$temp" 0
+	"$one" 1
+
+	"$tempvec" "[0 0]"
+
+	"Proxies"
+	{
+
+		// Texture rotates sinusoidally
+		"Sine"
+		{
+			"resultVar" "$temp"
+			"sineperiod" 3600.00
+			"sinemin" 360
+			"sinemax" 0
+		}
+		// Texture scrolls sinusoidally 
+		"Sine"
+		{
+			"resultVar" "$tempvec[0]"
+			"sineperiod" 10.00
+			"sinemin" 0.01
+			"sinemax" 0.05
+			"timeoffset" 7
+		}
+
+		// Texture scrolls sinusoidally 
+		"Sine"
+		{
+			"resultVar" "$tempvec[1]"
+			"sineperiod" 7.00
+			"sinemin" 0.1
+			"sinemax" 0.15
+			"timeoffset" 2
+		}
+
+
+		"TextureTransform"
+		{
+			"rotateVar" "$temp"
+			"translateVar" "$tempvec"
+			"resultVar" "$basetexturetransform"
+		}
+
+
+
+		// Self Illum tint gets less red as we move
+		"PlayerSpeed"
+		{
+			"resultVar" "$temp"
+			"scale" 0.01
+		}
+
+
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" -0.6
+			"texturescrollangle" 0
+		}
+
+	
+
+
+               "Sine"
+		{
+			"resultVar"	"$alpha"
+			"sineperiod"	3
+			"sinemin"	0.3
+			"sinemax" 0.9
+		}
+
+	}
+
+
+
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/skyrimm/sonsoftaloscapm"
+	"$bumpmap" "models/skyrimm/sonsoftaloscapm_n"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.2"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 4 10]"
+	"$ambientocclusion" "1"
+}

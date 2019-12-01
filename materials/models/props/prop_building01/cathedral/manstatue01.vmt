@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+
+"$basetexture" "models\props\prop_building01\cathedral\manstatue01"
+
+"$bumpmap" "models\props\prop_building01\cathedral\manstatue01_n"
+
+"$surfaceprop" "rock"
+
+"$model" 1
+
+}

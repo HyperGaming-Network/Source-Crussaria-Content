@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "mq_wall/med_wall_05"
+	"$bumpmap" "mq_wall/med_wall_05_norm"
+	"$surfaceprop" "wood_plank"
+}

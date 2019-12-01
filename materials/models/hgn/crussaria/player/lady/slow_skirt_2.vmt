@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/crussaria/player/lady/slow_armor"
+	"$bumpmap" "models/hgn/crussaria/player/lady/slow_armor_bump"
+
+	"$alphatest" 1
+	"$nocull" 1
+}

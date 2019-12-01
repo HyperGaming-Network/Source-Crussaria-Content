@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\tree\leafs_01"
+	"$alphatest" 1
+    "$model" 1
+    "$nocull" 1
+    "$nodecal" 1
+}

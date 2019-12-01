@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models\props_tes\books\scroll01
+	$bumpmap models\props_tes\books\scroll01_n
+	$surfaceprop paper
+}

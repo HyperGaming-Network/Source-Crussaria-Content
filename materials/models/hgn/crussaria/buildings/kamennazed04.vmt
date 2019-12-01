@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "midle_ages/kamennazed04"
+	"$surfaceprop" "rock"
+	"$bumpmap" "midle_ages/kamennazed04_normal"
+}

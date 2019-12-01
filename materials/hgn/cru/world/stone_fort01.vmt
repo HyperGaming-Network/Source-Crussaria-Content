@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 	"hgn/cru/world/stone_fort01"
+	//"$basetexture2" "hgn/cru/world/terrainmud01"
+	"$surfaceprop" 		"concrete"
+	//"$surfaceprop2" 	"gravel"
+	"$bumpmap"		    "hgn/cru/world/stone_fort01_n"
+	//"$bumpmap2"		    "hgn/cru/world/terrainmud01_n"
+	//"$blendmodulatetexture"         "hgn/srp/nature/modulate01"
+}

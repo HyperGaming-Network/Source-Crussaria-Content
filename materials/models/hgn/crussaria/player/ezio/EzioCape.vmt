@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\hgn\crussaria\player\ezio\EzioCape"
+	"$bumpmap" "models\hgn\crussaria\player\ezio\EzioCape_n"
+}

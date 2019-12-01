@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/L12_coffin/CR_LidCoffin02"
+	"$bumpmap" "models/L12_coffin/CR_LidCoffin02_normal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "concrete"
+	"$normalmapalphaenvmapmask" 1
+	
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.8
+	"$envmaptint" "[.1 .1 .1]"
+
+}

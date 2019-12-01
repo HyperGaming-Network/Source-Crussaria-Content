@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/tomb01/tombe01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "models/tomb01/tombe01_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" 1
+	"$envmaptint" "[0.2 0.2 0.2]"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"hgn/cru/world/L01_stonewall01"
+	"$surfaceprop" "concrete"
+	"%compilenonsolid" 1
+	"$bumpmap" "hgn/cru/world/L01_stonewall01_n"
+}

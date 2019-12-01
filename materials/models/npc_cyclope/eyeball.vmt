@@ -1,0 +1,7 @@
+"Eyes"
+{
+	"$basetexture" "models/Npc_cyclope/eyeball"
+	"$iris" "models/Npc_cyclope/pupil"
+	"$nolight" 1
+	"$glint" "models/Npc_cyclope/glint"
+}

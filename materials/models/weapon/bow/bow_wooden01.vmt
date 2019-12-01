@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapon\bow\bow_wooden01"
+	"$bumpmap" "models\weapon\bow\bow_wooden01_normal" 
+
+	"$halflambert"		0
+	"$nocull"		1
+	"$nodecal" 		1
+	"$alphatest" 		1
+	"$translucent" 		1
+
+	"$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	8
+	"$phongboost" 		1
+	
+    "$rimlight_enable"	1
+	"$rimlight_exp"		2
+	"$rimlight_boost"	2
+
+	"$sss_enable"		0
+	"$sss_color"		"[0.05 -0.03 0.1 0.5]"
+	"$surface" "metal"
+}

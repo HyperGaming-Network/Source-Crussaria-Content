@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{	
+	"$basetexture" "hgn/cru/world/l08_stone_reliefmoss"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "hgn/cru/world/l08_stone_moss_n"
+
+	"%keywords" "l08"
+}

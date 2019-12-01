@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "plaster/plasterwall003d"
+	"$surfaceprop"  "plaster"
+
+	"%keywords" "c17downtown,wasteland"
+}

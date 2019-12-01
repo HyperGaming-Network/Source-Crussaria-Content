@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/crussaria/player/oldman1/slow_face"
+	"$bumpmap"  "models/hgn/crussaria/player/oldman1/slow_face_bump"
+
+	"$translucent" 1
+}
